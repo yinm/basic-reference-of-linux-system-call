@@ -53,3 +53,11 @@ Mkfile.old
 dkms.conf
 
 
+### https://raw.github.com/github/gitignore/f51d32528bcd110bc8fb8b09e2b0164f6c243663/Global/VisualStudioCode.gitignore
+
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+
+
